@@ -1,0 +1,12 @@
+﻿# 
+# This file contains the parameter values of the Design Points successfully updated by ANSYS Workbench.
+# Project name: muffler
+# Creation date: 02/03/2025 09:22:10
+# 
+# 02/03/2025 09:22:10
+# The parameters defined in the project are:
+# ,P4 - Analysis Settings Range Maximum [Hz],P3 - Analysis Settings Range Minimum [Hz],P2 - Analysis Settings Stiffness Coefficient,P1 - Analysis Settings Constant Structural Damping Coefficient,P5 - Analysis Settings Solution Intervals,P6 - Analysis Settings Mass Coefficient
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P4,P3,P2,P1,P5,P6
+DP 0,50000000,0,0,0,10,0
